@@ -50,10 +50,10 @@ There are some software that I recommend to install.
 
 # Install Hackintosh
 Used tool: 
-[OCAT](https://github.com/ic005k/OCAuxiliaryTools)
-[Hackintool](https://github.com/benbaker76/Hackintool/releases)
-[RDM](https://github.com/avibrazil/RDM)
-[AMD Power gadget](https://github.com/trulyspinach/SMCAMDProcessor/releases/tag/0.7.1)
+- [OCAT](https://github.com/ic005k/OCAuxiliaryTools)
+- [Hackintool](https://github.com/benbaker76/Hackintool/releases)
+- [RDM](https://github.com/avibrazil/RDM)
+- [AMD Power gadget](https://github.com/trulyspinach/SMCAMDProcessor/releases/tag/0.7.1)
 ## 1. Increase VRAM to 2GB
 - Go to BIOS -> Config -> Graphic Device -> Set to UMAFrameBufferSize -> Set to 2048MB
 ## 2. Increase EFI partition size to 250MB
