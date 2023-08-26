@@ -64,6 +64,7 @@ Using EFI folder from `EFI for Installer`
 - Boot from USB (USB has 2 folder is EFI and com.apple.recovery.boot)
 
 ### 4.2. Install Hackintosh
+- Must using GPU Dynamic option.
 - Boot from USB -> In Opencore menu choose Install MacOS (Press "Space" to show hidden menu) -> Choose MacOS Installer
 - Install MacOS (Remember connect to internet by Ethernet port)
 ### 4.3. Post Install
