@@ -49,6 +49,11 @@ There are some software that I recommend to install.
   - Disable all animations except "Animate controls and elements inside windows", smooth edges of screen fonts, show window contents while dragging.
 
 # Install Hackintosh
+Used tool: 
+- [OCAT](https://github.com/ic005k/OCAuxiliaryTools)
+- [Hackintool](https://github.com/benbaker76/Hackintool/releases)
+- [RDM](https://github.com/avibrazil/RDM)
+- [AMD Power gadget](https://github.com/trulyspinach/SMCAMDProcessor/releases/tag/0.7.1)
 ## 1. Increase VRAM to 2GB
 - Go to BIOS -> Config -> Graphic Device -> Set to UMAFrameBufferSize -> Set to 2048MB
 ## 2. Increase EFI partition size to 250MB
@@ -64,6 +69,7 @@ Using EFI folder from `EFI for Installer`
 - Boot from USB (USB has 2 folder is EFI and com.apple.recovery.boot)
 
 ### 4.2. Install Hackintosh
+- Must using GPU Dynamic option.
 - Boot from USB -> In Opencore menu choose Install MacOS (Press "Space" to show hidden menu) -> Choose MacOS Installer
 - Install MacOS (Remember connect to internet by Ethernet port)
 ### 4.3. Post Install
