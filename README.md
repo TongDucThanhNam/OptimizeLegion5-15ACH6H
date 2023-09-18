@@ -58,8 +58,8 @@ Used tool:
 - Go to BIOS -> Config -> Graphic Device -> Set to UMAFrameBufferSize -> Set to 2048MB
 ## 2. Increase EFI partition size to 250MB
 Do it yourself.
-## 3. Disabling XHCI1 Controller
-Using Advanced Bios Legion 5: Add everything inside folder Advanced Bios Legion 5 to USB. Boot from that usb (Go to bios -> Boot -> Boot from USB **Remeber disable secure boot** first). Then go to Advanced -> FCH Common Options -> USB Configuration Options -> Disable XHCI1 Controller
+## 3. ~~Disabling XHCI1 Controller~~
+~~Using Advanced Bios Legion 5: Add everything inside folder Advanced Bios Legion 5 to USB. Boot from that usb (Go to bios -> Boot -> Boot from USB **Remeber disable secure boot** first). Then go to Advanced -> FCH Common Options -> USB Configuration Options -> Disable XHCI1 Controller~~
 
 ## 4. Install Hackintosh
 Create USB installer introduce by Dortania. [Link](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos) (Using Opencore 0.88). We just create com.apple.recovery.boot folder and stop. After that we using PreBuilt (Folder EFI)
